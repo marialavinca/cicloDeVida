@@ -20,5 +20,6 @@ plt.xlabel('OBJECTID')
 plt.ylabel('Población')
 plt.xlim((1, len(data)))
 plt.title('Población de cada ciudad') 
-plt.savefig("figura.png")
 plt.show()
+
+#plt.savefig("figura.png")
