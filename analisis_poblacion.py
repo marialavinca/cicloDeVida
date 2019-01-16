@@ -21,5 +21,3 @@ plt.ylabel('Población')
 plt.xlim((1, len(data)))
 plt.title('Población de cada ciudad') 
 plt.show()
-
-#plt.savefig("figura.png")
